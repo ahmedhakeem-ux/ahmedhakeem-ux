@@ -1,6 +1,5 @@
 🧑‍💻 Ahmed Abdelhakeem
 👋 About Me
-![WhatsApp Image 2025-06-26 at 15 26 52_6fb662e3](https://github.com/user-attachments/assets/a5fe5da7-0e0a-4a65-ac12-27599fb26b82)
 
 AEC Developer (Revit API, C#, WPF, ASP.NET MVC)
 
