@@ -1,16 +1,30 @@
-## Hi there 👋
+🧑‍💻 Ahmed Abdelhakeem
+👋 About Me
+![WhatsApp Image 2025-06-26 at 15 26 52_6fb662e3](https://github.com/user-attachments/assets/a5fe5da7-0e0a-4a65-ac12-27599fb26b82)
 
-<!--
-**ahmedhakeem-ux/ahmedhakeem-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AEC Developer (Revit API, C#, WPF, ASP.NET MVC)
 
-Here are some ideas to get you started:
+Passionate about BIM automation & CAD applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring AI, data visualization, and cloud solutions
+
+🔧 Skills
+
+C# • WPF • ASP.NET MVC • Entity Framework • Revit API • ETABS API • AutoCAD API • SQL • JavaScript • OpenGL
+
+📂 Featured Projects
+
+BIMScope → Transfer Revit analytical models & loads to ETABS
+
+SquidCad → WPF CAD-like drawing app
+
+IFC Viewer → Web-based IFC 3D viewer with Three.js & ASP.NET MVC
+
+Solar System Simulator → OpenGL + SFML
+
+📫 Contact
+
+📧 ahmedhakeem0060@gamil.com
+ • 🔗 LinkedIn: https://www.linkedin.com/in/ahmed-abdelhakeem/
+
+⚡ Building tools to automate and innovate in AEC.
